@@ -17,7 +17,7 @@ Hemos tomado como referencia __aplicaciones internacionales__ como: *Nequi* y *S
 
 __Basandonos en el público peruano__ hemos tomado como referencia los bancos __BCP__ y __BBVA__ dado que su meta principal es transformar lo tradicional a lo digital; Ademas, para llegar a ello realizan reuniones con las areas necesarias, sin importar los puestos o cargos, para incluir todo tipo de ideas de innovación posible.
 
-##Presentación
+## Presentación
 
 En esta presentación vamos a aclarar los puntos cuestionados en el reto: [Presentación powerpoint](https://1drv.ms/p/s!Ajr-tUTQOX2ufdYRHz_5jvHshHA)
 
