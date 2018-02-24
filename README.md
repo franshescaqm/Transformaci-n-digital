@@ -1,6 +1,6 @@
 # Transformación Digital
 
-[Unión-Tecnologica]()
+[Unión-Tecnologica](assets/img/tech-man.jpg)
 
 ## ¿En que nos hemos basado para nuestra investigación?  
   
