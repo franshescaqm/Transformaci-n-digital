@@ -23,6 +23,6 @@ Al hacer lecturas e investigaciónes sobre los bancos más influyentes de nuestr
 
 ## Presentación
 
-En esta [Presentación powerpoint](https://onedrive.live.com/view.aspx?cid=1fb45ee837d5703a&page=view&resid=1FB45EE837D5703A!8127&parId=1FB45EE837D5703A!8126&app=PowerPoint) vamos a aclarar los puntos cuestionados en la explicación del reto. 
+En esta [Presentación powerpoint](https://1drv.ms/p/s!Ajpw1TfoXrQfvz-2zHXDoyirVj9k) vamos a aclarar los puntos cuestionados en la explicación del reto. 
 
 
