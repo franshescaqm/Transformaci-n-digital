@@ -19,7 +19,7 @@ __Basandonos en el público peruano__ hemos tomado como referencia los bancos __
 
 ## Brainstorming
 
-Al hacer lecturas e investigaciónes sobre los bancos más influyentes de nuestro país junto con innovaciones digitales internacionales, hemos hecho una lluvia de ideas [aquí](https://realtimeboard.com/app/board/o9J_kzq3ekQ=/) !. 
+Al hacer lecturas e investigaciónes sobre los bancos más influyentes de nuestro país junto con innovaciones digitales internacionales, hemos hecho una lluvia de ideas [aquí](https://realtimeboard.com/app/board/o9J_kzp6Zcs=/) !. 
 
 ## Presentación
 
