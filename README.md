@@ -17,8 +17,12 @@ Hemos tomado como referencia __aplicaciones internacionales__ como: *Nequi* y *S
 
 __Basandonos en el público peruano__ hemos tomado como referencia los bancos __BCP__ y __BBVA__ dado que su meta principal es transformar lo tradicional a lo digital; Ademas, para llegar a ello realizan reuniones con las areas necesarias, sin importar los puestos o cargos, para incluir todo tipo de ideas de innovación posible.
 
+## Brainstorming
+
+Al hacer lecturas e investigaciónes sobre los bancos más influyentes de nuestro país junto con innovaciones digitales internacionales, hemos hecho una lluvia de ideas [aquí](https://realtimeboard.com/app/board/o9J_kzq3ekQ=/) !. 
+
 ## Presentación
 
-En esta presentación vamos a aclarar los puntos cuestionados en el reto: [Presentación powerpoint](https://1drv.ms/p/s!Ajr-tUTQOX2ufdYRHz_5jvHshHA)
+En esta [Presentación powerpoint](https://1drv.ms/p/s!Ajr-tUTQOX2ufdYRHz_5jvHshHA) vamos a aclarar los puntos cuestionados en la explicación del reto. 
 
 
