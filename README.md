@@ -24,6 +24,9 @@ Al hacer lecturas e investigaciónes sobre los bancos más influyentes de nuestr
 ## Presentación
 
 En esta [Presentación powerpoint](https://1drv.ms/p/s!Ajpw1TfoXrQfvz-2zHXDoyirVj9k) vamos a aclarar los puntos cuestionados en la explicación del reto. 
+
+- RealtimeBoard:  
+  
 ![RealtimeBoard](assets/img/mnc.png)
 
 
